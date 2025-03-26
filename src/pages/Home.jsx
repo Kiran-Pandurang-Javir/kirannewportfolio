@@ -68,7 +68,7 @@ function Home() {
           <div className={styles.greeting}>
             <span className={styles.wave}>👋</span> Hi there! I'm
           </div>
-          <h1 className={styles.name}>Sudarshan Bhosale</h1>
+          <h1 className={styles.name}>Kiran Javir</h1>
           <h2 className={styles.role}>
             {typedText}
             <span className={`${styles.cursor} ${showCursor ? styles.visible : ''}`}>|</span>
@@ -165,16 +165,16 @@ function Home() {
             <pre className={styles.codeBlock}>
               <code>
 {`const developer = {\n`}
-{`  name: "Sudarshan Bhosale",\n`}
+{`  name: "Kiran Javir",\n`}
 {`  role: "${roles[currentRoleIndex]}",\n`}
 {`  skills: [\n`}
 {`    "JavaScript", "React", "Java",\n`}
 {`    "Spring Boot", "MySQL", "Docker"\n`}
 {`  ],\n`}
 {`  contact: {\n`}
-{`    email: "bhosalesudarshan9@gmail.com",\n`}
-{`    twitter: "@darker09",\n`}
-{`    github: "Darker009"\n`}
+{`    email: "kiranjavir001@gmail.com",\n`}
+{`    twitter: "@krian2709",\n`}
+{`    github: "Kiran-Pandurang-Javir"\n`}
 {`  }\n`}
 {`};\n\n`}
 {`function buildSomethingAwesome() {\n`}
